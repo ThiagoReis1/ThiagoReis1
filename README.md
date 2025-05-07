@@ -1,5 +1,3 @@
-
-
 <br/>
 
 ### Olá, eu sou o Thiago Reis Santana 👋
@@ -70,7 +68,7 @@ Sou um desenvolvedor com experiência em C, C++ e Python. Tenho um interesse esp
 ### 📫 Como me encontrar:
 
 
-- Exemplo: [LinkedIn](URL_DO_SEU_LINKEDIN)
+- [LinkedIn](https://www.linkedin.com/in/thiago-reis-santana-150432308/)
 
 
 <br/>
