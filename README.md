@@ -1,26 +1,34 @@
+
+
+<br/>
+
 ### Olá, eu sou o Thiago Reis Santana 👋
 
-<br/>
-
-Sou um desenvolvedor com experiência em C, C++ e Python, com um interesse especial e experiência em Fotografia Computacional.
+Sou um desenvolvedor com experiência em C, C++ e Python. Tenho um interesse especial e experiência em Fotografia Computacional.
 
 <br/>
 
-[![Minhas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ThiagoReis1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Minhas Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoReis1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-**👆 Lembre-se que você pode customizar esses cards** seguindo as instruções em [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
+[![Minhas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ThiagoReis1&show_icons=true&theme=radical&rank_icon=github&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Minhas Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoReis1&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
 ---
 
-### 💻 Tecnologias e Ferramentas
+### 🚀 Linguagens e Tecnologias
 
-Aqui estão algumas das tecnologias com as quais trabalho:
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+</p>
 
-- **Linguagens de Programação:** C, C++, Python
-- **Áreas de Interesse:** Fotografia Computacional, Processamento de Imagens, Visão Computacional.
+<br/>
+
+**Outras Áreas de Interesse/Experiência:**
+- Fotografia Computacional
+- Processamento de Imagens
+- Visão Computacional
 
 <br/>
 
