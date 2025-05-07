@@ -69,9 +69,9 @@ Sou um desenvolvedor com experiência em C, C++ e Python. Tenho um interesse esp
 
 ### 📫 Como me encontrar:
 
-- (Opcional: Adicione seu LinkedIn, email ou outras formas de contato)
+
 - Exemplo: [LinkedIn](URL_DO_SEU_LINKEDIN)
-- Exemplo: Email: seuemail@example.com
+
 
 <br/>
 
