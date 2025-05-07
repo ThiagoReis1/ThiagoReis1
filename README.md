@@ -6,10 +6,10 @@ Sou um desenvolvedor com experiência em C, C++ e Python, com um interesse espec
 
 <br/>
 
-[![Minhas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Minhas Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Minhas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ThiagoReis1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Minhas Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoReis1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-**👆 Lembre-se de substituir `SEUUSERNAME` nos links acima pelo seu nome de usuário do GitHub!** Você pode customizar esses cards seguindo as instruções em [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
+**👆 Lembre-se que você pode customizar esses cards** seguindo as instruções em [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
 
 <br/>
 
