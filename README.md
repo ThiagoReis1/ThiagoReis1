@@ -17,15 +17,37 @@ Sou um desenvolvedor com experiência em C, C++ e Python. Tenho um interesse esp
 
 ### 🚀 Linguagens e Tecnologias
 
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-</p>
+
+<img
+    align="left"
+    alt="C"
+    title="C"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+/>
+<img
+    align="left"
+    alt="C++"
+    title="C++"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+/>
+<img
+    align="left"
+    alt="Python"
+    title="Python"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+
 
 <br/>
+<br/>
 
-**Outras Áreas de Interesse/Experiência:**
+**Outras Áreas de Interesse:**
 - Fotografia Computacional
 - Processamento de Imagens
 - Visão Computacional
@@ -36,7 +58,10 @@ Sou um desenvolvedor com experiência em C, C++ e Python. Tenho um interesse esp
 
 ### 🌱 O que estou aprendendo ou no que estou focado atualmente:
 
-- (Opcional: Adicione aqui algo que você está aprendendo ou projetos atuais)
+- Fotografia Computacional
+- Processamento de Imagens
+- Visão Computacional
+- <span style="color:#87CEEB;"> Atualmente explorando e aprendendo sobre **Inteligência Artificial (IA)**</span>
 
 <br/>
 
