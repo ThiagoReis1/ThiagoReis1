@@ -68,7 +68,7 @@ Sou um desenvolvedor com experiência em C, C++ e Python. Tenho um interesse esp
 ### 📫 Como me encontrar:
 
 
-- [LinkedIn](https://www.linkedin.com/in/thiago-reis-santana-150432308/)
+- [LinkedIn](https://www.linkedin.com/in/thiago-reis-santana/)
 
 
 <br/>
